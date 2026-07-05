@@ -1,0 +1,26 @@
+{
+  "name": "9routemanage",
+  "version": "1.0.0",
+  "description": "Bulk add & manage Google accounts for AntiGravity Provider on 9Router",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "add": "node add.js"
+  },
+  "keywords": [
+    "9router",
+    "antigravity",
+    "google-oauth",
+    "puppeteer",
+    "automation",
+    "bulk-login",
+    "quota-manager"
+  ],
+  "author": "Idamod",
+  "license": "MIT",
+  "dependencies": {
+    "puppeteer": "^24.43.1",
+    "puppeteer-extra": "^3.3.6",
+    "puppeteer-extra-plugin-stealth": "^2.11.2"
+  }
+}
