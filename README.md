@@ -2,9 +2,9 @@
 
 # 9Router AutoLogin Google
 
-**Bulk add & manage Google accounts for AntiGravity Provider on 9Router**
+**EDITED LOGIN GEMINI TO AVOID BLOCKED ACCOUNT. Bulk add & manage Google accounts for AntiGravity Provider on 9Router**
 
-By [**Idamod**](https://github.com/Attazkia)
+By [**Idamod**](https://github.com/Attazkia) Edited by kontolamoh
 
 [![Node.js](https://img.shields.io/badge/Node.js-18%2B-339933?logo=node.js&logoColor=white)](https://nodejs.org/)
 [![Puppeteer](https://img.shields.io/badge/Puppeteer-Stealth-40B5A4?logo=puppeteer&logoColor=white)](https://pptr.dev/)
